@@ -1,0 +1,9 @@
+<div class="container"></div>
+<div class="input-group flex-nowrap">
+    <span class="input-group-text" id="addon-wrapping">$</span>
+    <input type="text" class="form-control" placeholder="enter email" aria-label="Username" aria-describedby="addon-wrapping">
+</div>
+<br><br>
+<input placeholder="enter id"/>
+<br><br>
+<button type="button" class="btn btn-success">press me</button>

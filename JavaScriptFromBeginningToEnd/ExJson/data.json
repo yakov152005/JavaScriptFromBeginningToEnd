@@ -1,0 +1,20 @@
+{
+  "continentName": "Europe",
+  "countries": [
+    {
+      "name": "Switzerland",
+      "population": 8700000,
+      "area": 41285
+    },
+    {
+      "name": "Moldove",
+      "population": 2600000,
+      "area": 34000
+    },
+    {
+      "name": "Greece",
+      "population": 10700000,
+      "area": 132000
+    }
+  ]
+}
